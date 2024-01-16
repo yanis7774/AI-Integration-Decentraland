@@ -1,5 +1,8 @@
+****AI Integration into Decentraland****
 
-****ABSTRACT****
+
+
+**ABSTRACT**
 
 This is a resubmission of the previous grant for LLMs integration. The reasons for resubmission are:
 
