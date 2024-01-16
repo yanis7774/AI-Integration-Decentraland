@@ -1,8 +1,15 @@
+
+****ABSTRACT****
+
 This is a resubmission of the previous grant for LLMs integration. The reasons for resubmission are:
 
 - Several key VP holders supported the grant idea and were inclined to vote 'YES.' However, due to a limited budget and competing funds in the same category with DCL Metrics, they opted to vote for them instead.
 - The previous grant was overly technical. This time, I'll highlight practical use-cases for better understanding.
 - Additionally, we've made a progress that we're eager to share.
+
+
+****DESCRIPTION****
+
 
 This grant is aimed to bring AI technology to Decentraland through Open Source tools.
 
@@ -17,7 +24,7 @@ Progress from the last proposal:
 2. Chat-bot for Decentral Game ICE Poker: [Twitter Link](https://twitter.com/TonyMo74/status/1745380483389956509)
 3. Multilanguage Q&A; [Twitter Link](https://twitter.com/TonyMo74/status/1746759684705632643)
 4. Image generation integration: [Twitter Link](https://twitter.com/TonyMo74/status/1740682713332637925)
-5. Retweet by LangChain highlighting our new AI interface: [Twitter Link](https://twitter.com/LangChainAI/status/1746569216239808885)
+5. Retweet by LangChain(a widely used library for building AI/LLM applications): [Twitter Link](https://twitter.com/LangChainAI/status/1746569216239808885) - They highlighted that it is a completely new interface for AI.
 
 These tweets received 60K impressions! Many likes, views, etc. Several developers (non-DCL related) asked me in DMs how to build on Decentraland + AI. 
 This brings in completely new people to the board.
@@ -37,6 +44,21 @@ Features available:
 - AI role play NPC - predefined stories and behavior by creators.
 - First experiments of integrating Web3 functionality to AI, including NPCs with their own Ethereum addresses for transactions.
 
+
+****TEAM****
+
+
+- Anton Manakov - project lead, developer,
+In Decentraland since its first ICO. A developer with 3 years of experience in Decentraland. Co-founder and CTO of Meta Residence Tower. Twice a grant recipient. Passionate about technology, Web3, and decentralization.
+twitter/@tonymo74
+
+- Max Kuz. - AI Developer with 10 years of ML experience.
+
+- Iren Moore - Senior TypeScript Developer
+
+
+
+****ROADMAP****
 
 1st Month:
 * Backend development for a proprietary API (including OpenAI and Claude 2) and local open-source models.
