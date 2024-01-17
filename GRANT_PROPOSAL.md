@@ -23,11 +23,23 @@ This proposal outlines an advanced AI integration system with applications in vi
 The system's use cases are versatile, covering virtual guides in Decentraland for navigation and information, interactive storytelling and roleplay, AI companions for social interaction, innovative educational modules, and AI-driven customer service representatives, decorations, quests, audio & speech features.
 
 Progress from the last proposal:
-1. Chat-bot for Golf Craft Game: [Twitter Link](https://twitter.com/TonyMo74/status/1745380483389956509). Deployed in Genesis City: [Decentraland Link](https://decentraland.org/play/?position=55%2C-42)
-2. Chat-bot for Decentral Game ICE Poker: [Twitter Link](https://twitter.com/TonyMo74/status/1745380483389956509)
-3. Multilanguage Q&A; [Twitter Link](https://twitter.com/TonyMo74/status/1746759684705632643)
-4. Image generation integration: [Twitter Link](https://twitter.com/TonyMo74/status/1740682713332637925)
-5. Retweet by LangChain(a widely used library for building AI/LLM applications): [Twitter Link](https://twitter.com/LangChainAI/status/1746569216239808885) - They highlighted that it is a completely new interface for AI.
+
+[//]: # (1. [Chat-bot for Golf Craft Game: Deployed in Genesis City]&#40;https://decentraland.org/play/?position=55%2C-42&#41;{:target="_blank"})
+
+[//]: # (2. [Chat-bot for Decentral Game ICE Poker]&#40;https://twitter.com/TonyMo74/status/1745380483389956509&#41;{:target="_blank"})
+
+[//]: # (3. [Multilanguage Q&A]&#40;https://twitter.com/TonyMo74/status/1746759684705632643&#41;{:target="_blank"})
+
+[//]: # (4. [Image generation integration]&#40;https://twitter.com/TonyMo74/status/1740682713332637925&#41;{:target="_blank"})
+
+[//]: # (5. [Retweet by LangChain]&#40;https://twitter.com/LangChainAI/status/1746569216239808885&#41;{:target="_blank"} - They highlighted that it is a completely new interface for AI.)
+
+1. <a href="https://decentraland.org/play/?position=55%2C-42" target="_blank">Chat-bot for Golf Craft Game: Deployed in Genesis City</a>
+2. <a href="https://twitter.com/TonyMo74/status/1745380483389956509" target="_blank">Chat-bot for Decentral Game ICE Poker</a>
+3. <a href="https://twitter.com/TonyMo74/status/1746759684705632643" target="_blank">Multilanguage Q&A</a>
+4. <a href="https://twitter.com/TonyMo74/status/1740682713332637925" target="_blank">Image generation integration</a>
+5. <a href="https://twitter.com/LangChainAI/status/1746569216239808885" target="_blank">Retweet by LangChain</a> - They highlighted that it is a completely new interface for AI.
+
 
 These tweets received 60K impressions! Many likes, views, etc. Several developers (non-DCL related) asked me in DMs how to build on Decentraland + AI. 
 This brings in completely new people to the board.
